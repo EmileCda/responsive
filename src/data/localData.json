@@ -1,0 +1,71 @@
+{
+  "AppName": "NavBar -responsive",
+
+  "navBar": [
+    {
+      "fr": "Accueil",
+      "en": "Home",
+      "es": "Inicio",
+      "link": "/"
+    },
+    
+    {
+      "fr": "A propos",
+      "en": "About",
+      "es": "Acerca de",
+      "link": "/About"
+    },
+    {
+      "fr": "30%",
+      "en": "30%",
+      "es": "30%",
+      "link": "/Page30"
+    },
+    {
+      "fr": "Test",
+      "en": "Test",
+      "es": "Prueba",
+      "link": "/Test"
+    }    
+  ],
+  "screenHome": [
+    {
+      "key": "screenName",
+      "fr": "Accueil",
+      "en": "Home",
+      "es": "[es] Home]"
+    }
+  ],
+
+  "screenTest": [
+    {
+      "key": "screenName",
+      "fr": "Test",
+      "en": "Test",
+      "es": "Test"
+    }],
+    "screenTourism": [
+      {
+        "key": "screenName",
+        "fr": "Tourisme",
+        "en": "Tourism",
+        "es": "Tourismo"
+      }
+    ],
+    "screenPage30": [
+      {
+        "key": "screenName",
+        "fr": "Page 30",
+        "en": "Page 30",
+        "es": "Page 30"
+      }
+    ],
+    "whatTodo": [
+      {
+        "key": "screenName",
+        "fr": "Page 30",
+        "en": "Page 30",
+        "es": "Page 30"
+      }
+    ]
+}
